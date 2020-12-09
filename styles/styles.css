@@ -83,23 +83,6 @@ a{
     text-decoration:none;
 }
 
-.left
-{
-    float:left;
-    width: 55%;
-    height: auto;
-    padding: 20px;
-    text-align: center;
-}
-
-.right{
-    float:right;
-    width: 35%;
-    height: auto;
-    padding: 20px;
-    text-align: center;
-}
-
 blockquote{
     color:#81E3FD;
     font-size: x-large;
