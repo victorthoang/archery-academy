@@ -75,7 +75,7 @@ article p{
 
 p{
   line-height: 2;
-  color:#444444;
+  color:#FFFFFF;
 }
 
 a{
@@ -161,6 +161,14 @@ section article:nth-child(odd){
     padding: 2rem;
 }
 
+h1{
+  color:#ecb722;
+}
+
+h2{
+  color:#ecb722;
+}
+
 a{
   color:#ecb722;
 }
@@ -177,7 +185,7 @@ hr{
 .col {
   float: left;
   padding: 4rem;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .row::after {
@@ -232,4 +240,25 @@ width: 91.66%;
 
 .span_12_of_12 {
 width: 100%;
+}
+
+img{
+  border-radius: 10%;
+}
+
+.row:nth-child(odd){
+  background-color: #1b447f;
+  padding: 2rem;
+}
+.row:nth-child(even){
+  background-color: #03a3df;
+  padding: 2rem;
+}
+
+.white{
+  color:#FFFFFF;
+}
+
+.yellow{
+  color:#ecb722;
 }
